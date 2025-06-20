@@ -15,7 +15,7 @@ The alphas simulated using the api can be checked directly in the alphas section
 - Designed for rapid iteration, results logging, and comparative analysis of alpha effectiveness.
 - Focused on **signal quality and diversity**, avoiding overfit metrics like IS statistics.
 - Here is a screenshot of some of the alphas that were simulated using this project.
-  ![Alpha Screenshot](screenshots/alpha1_result.png)
+  ![Alpha Screenshot](results/alpha1_result.png)
 
 ## 📂 Contents
 
