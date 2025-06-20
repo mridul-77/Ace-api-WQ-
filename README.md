@@ -17,9 +17,8 @@ The alphas simulated using the api can be checked directly in the alphas section
 
 ## 📂 Contents
 
-- `alphas/` – All alpha formula files used in the project.
-- `backtest_script/` – Code for running simulations via the Brain API.
-- `results/` *(optional)* – Selected performance outputs or metrics (you can add this).
+- `ace-lib/` – Code for running simulations via the Brain API.
+- `results/`- Includes selected screenshots showcasing the performance of alphas developed and submitted using this framework.
 
 ## 📈 Outcome
 
