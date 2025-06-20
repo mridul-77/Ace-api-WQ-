@@ -1,6 +1,6 @@
 # Ace-api-WQ 🧠 – Alpha Research Project for WorldQuant Brain
 
-This repository contains my submission for the **WorldQuant Brain Consultant Challenge (September 2024)**.
+This repository contains the notebook that helped in creating my alphas that were submitted for the **WorldQuant Brain Consultant Challenge (September 2024)**.
 
 ## 📌 Project Summary
 
