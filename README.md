@@ -36,7 +36,7 @@ Due to WorldQuant Brain’s data and file policy, key files such as `ace_lib.py`
 
 ## 📬 Contact
 
-Feel free to reach out if you're interested in quantitative research, finance, or alpha modeling.
+Feel free to reach out.
 
 📧 Email: strangemridul [at] gmail [dot] com
 
