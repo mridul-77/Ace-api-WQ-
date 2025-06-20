@@ -17,7 +17,7 @@ The alphas simulated using the api can be checked directly in the alphas section
 
 ## 📂 Contents
 
-- `ace-lib/` – Code for running simulations via the Brain API.
+- `ace-api/` – Code for running simulations via the Brain API.
 - `results/`- Includes selected screenshots showcasing the performance of alphas developed and submitted using this framework.
 
 ## 📈 Outcome
