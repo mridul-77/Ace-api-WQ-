@@ -1,13 +1,13 @@
-# Ace-api-WQ 🧠 – Alpha Research Project for WorldQuant Brain
+# Ace-api-WQ – Alpha Research Project for WorldQuant Brain
 
 This repository contains the notebook that helped me in creating alphas that were submitted in the **WorldQuant Brain Consultant Challenge (September 2024)** held at IIT Guwahati.
 
-## 📌 Project Summary
+## Project Summary
 
 Developed a machine framework to design, test, and evaluate alpha signals using the **WorldQuant Brain API**. The framework supported scalable backtesting across multiple global equity datasets and enabled efficient experimentation with signal logic.
 The alphas simulated using the api can be checked directly in the alphas section of your wq account and you will see a ace tag associated with this alphas.
 
-## 📊 Key Highlights
+## Key Highlights
 
 - Created and simulated **35+ alphas** using model and analyst datasets.
 - Backtested on both **US and Global equity markets** to evaluate out-of-sample performance.
@@ -17,24 +17,24 @@ The alphas simulated using the api can be checked directly in the alphas section
 - Here is a screenshot of some of the alphas that were simulated using this project.
   ![Alpha Screenshot](results/alpha1_result.png)
 
-## 📂 Contents
+## Contents
 
 - `ace-api/` – Code for running simulations via the Brain API.
 - `results/`- Includes selected screenshots showcasing the performance of alphas developed and submitted using this framework.
 
-## 📈 Outcome
+## Outcome
 
 This project was part of a successful attempt in the Consultant Challenge which helped me to achieve rank 1 in the hackathon.
 
 ---
 
-## 🔒 Disclaimer
+## Note
 
 Due to WorldQuant Brain’s data and file policy, key files such as `ace_lib.py`, `helpful_functions.py`, and `requirements.txt` are not included in this repository.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out.
 
